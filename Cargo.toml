@@ -1,0 +1,13 @@
+[package]
+name = "eraser"
+version = "0.1.0"
+edition = "2024"
+description = "Erase terminal screen"
+license = "Apache-2.0"
+repository = "https://github.com/FortunatoZukunftdeuter/Eraser"
+readme = "README.md"
+keywords = ["eraser", "clear", "terminal"]
+
+[dependencies]
+crossterm = "0.29.0"
+ztd = "0.1.0"

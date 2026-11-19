@@ -1,0 +1,3 @@
+pub const CANT_ERASE_EXITCODE: i32 = 1;
+pub const LACK_OF_ARGUMENT_EXIT_CODE: i32 = 2;
+pub const CANT_EXECUTE_EXIT_CODE: i32 = 4;
